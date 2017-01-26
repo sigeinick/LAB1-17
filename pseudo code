@@ -1,0 +1,15 @@
+initialize the array and number appearing once
+assign bits to the number 
+
+}
+ set the for condition 
+ 
+ initialize the first interger to zero integer if less than array lenght ,increment
+  number y initialized to zero and incremented if less than 32 bits
+
+  get the number bits 
+  number and array bits assigned to numbers bit
+  increment the number 
+  initialize the number then 
+  set bits equal set bits modullus of the number 
+  print the number
